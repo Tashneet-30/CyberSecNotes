@@ -7,7 +7,7 @@ Welcome to my Cyber Security Learning journey!
 
 ## 🔵 Day 2 - Defensive Security  
 [Understanding Defensive Security](Understanding-Defensive-Security.md)  
-[Defensive Security: SOC, DFIR, and Malware Analysis](https://github.com/Tashneet-30/CyberSecurityLearnings/blob/main/Defensive%20Security%3A%20SOC%2C%20DFIR%2C%20and%20Malware%20Analysis%20%20.md)  
+[Defensive Security: SOC, DFIR, and Malware Analysis](Defensive Security: SOC, DFIR, and Malware Analysis.md)  
 
 📌 **Stay tuned for more updates!**  
 # CyberSecNotes
